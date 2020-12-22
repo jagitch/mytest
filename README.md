@@ -1,0 +1,2 @@
+# mytest
+go test demo
